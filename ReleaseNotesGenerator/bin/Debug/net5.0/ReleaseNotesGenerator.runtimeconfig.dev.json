@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\schapera\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\schapera\\.nuget\\packages"
+    ]
+  }
+}

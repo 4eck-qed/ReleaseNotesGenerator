@@ -1,0 +1,16 @@
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\bin\Debug\net5.0\ReleaseNotesGenerator.exe
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\bin\Debug\net5.0\ReleaseNotesGenerator.deps.json
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\bin\Debug\net5.0\ReleaseNotesGenerator.runtimeconfig.json
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\bin\Debug\net5.0\ReleaseNotesGenerator.runtimeconfig.dev.json
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\bin\Debug\net5.0\ReleaseNotesGenerator.dll
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\bin\Debug\net5.0\ReleaseNotesGenerator.pdb
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\obj\Debug\net5.0\ReleaseNotesGenerator.csproj.AssemblyReference.cache
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\obj\Debug\net5.0\ReleaseNotesGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\obj\Debug\net5.0\ReleaseNotesGenerator.AssemblyInfoInputs.cache
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\obj\Debug\net5.0\ReleaseNotesGenerator.AssemblyInfo.cs
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\obj\Debug\net5.0\ReleaseNotesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\obj\Debug\net5.0\ReleaseNotesGenerator.dll
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\obj\Debug\net5.0\refint\ReleaseNotesGenerator.dll
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\obj\Debug\net5.0\ReleaseNotesGenerator.pdb
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\obj\Debug\net5.0\ReleaseNotesGenerator.genruntimeconfig.cache
+C:\Users\schapera\source\repos\ReleaseNotesGenerator\ReleaseNotesGenerator\obj\Debug\net5.0\ref\ReleaseNotesGenerator.dll

@@ -1,0 +1,5 @@
+<ReleaseNotes>
+	<ChangeSet guid="a2cc1d4a-2e16-4cca-9d55-5e813be4d31a" version="123" date="2022-4-8">
+		<change type="test">just another test</change>
+	</ChangeSet>
+</ReleaseNotes>
